@@ -1,5 +1,5 @@
 ```js
-class Tnaveshu {
+class Trexyshu {
   constructor(...options) {
     this.height = "1.81"
     this.weight = "59 :P"
