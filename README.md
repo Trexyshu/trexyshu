@@ -35,7 +35,7 @@ class CreateMan extends Trexyshu {
 }
 
 let Trexyshu = new CreateMan()
-Knaveshu.createDay();
+Trexyshu.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=Tnaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Tnaveshu" />
 
