@@ -9,7 +9,7 @@ class Trexyshu {
   }
 }
 
-class CreateMan extends Knaveshu {
+class CreateMan extends Trexyshu {
   constructor(...options) {
     super(options);
   }
@@ -34,7 +34,7 @@ class CreateMan extends Knaveshu {
   
 }
 
-let Knaveshu = new CreateMan()
+let Trexyshu = new CreateMan()
 Knaveshu.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=Tnaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Tnaveshu" />
